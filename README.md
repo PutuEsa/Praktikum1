@@ -12,4 +12,5 @@ latihan 4
 ![alt text](https://github.com/PutuEsa/Praktikum1/blob/master/ss/Latihan4.png)
 
 latihan 5
+![alt text](https://github.com/PutuEsa/Praktikum1/blob/master/ss/Latihan5a.png)
 ![alt text](https://github.com/PutuEsa/Praktikum1/blob/master/ss/Latihan5.png)
